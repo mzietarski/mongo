@@ -1,1 +1,4 @@
-# mongo
+springnosqldemo
+===============
+
+Spring Data MongoDB kickstart
