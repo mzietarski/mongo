@@ -1,0 +1,2 @@
+mongod --dbpath mzietarski/tud --port 27017
+sudo killall mongod
